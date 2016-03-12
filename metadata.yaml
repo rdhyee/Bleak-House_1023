@@ -1,0 +1,40 @@
+_repo: Bleak-House_1023
+_version: 0.0.1
+covers:
+- attribution: Ed Gaither - Modern Electrographic, 2015
+  cover_type: original
+  image_path: cover.jpg
+  rights: Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)
+  rights_url: https://creativecommons.org/licenses/by-nc/4.0/
+creator:
+  author:
+    agent_name: Dickens, Charles
+    alias: Boz
+    birthdate: 1812
+    deathdate: 1870
+    gutenberg_agent_id: '37'
+    url: http://www.gutenberg.org/2009/agents/37
+    wikipedia: http://en.wikipedia.org/wiki/Charles_Dickens
+gutenberg_issued: '1997-08-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1023'
+language: en
+publication_note: '[S.l. :  s.n.],  1853'
+publication_date: 2015-08-01
+publisher: Recovering the Classics
+rights: CC BY-NC
+rights_url: http://creativecommons.org/licenses/by-nc/4.0/
+subjects:
+- '!lcsh: Guardian and ward -- Fiction'
+- '!lcsh: Bildungsromans'
+- '!lcsh: London (England) -- Fiction'
+- '!lcsh: Inheritance and succession -- Fiction'
+- '!lcsh: Legal stories'
+- '!lcsh: Young women -- Fiction'
+- '!lcsh: Domestic fiction'
+- '!lcsh: Illegitimate children -- Fiction'
+- '!lcc: PR'
+- GITenberg
+title: Bleak House
+url: http://www.gutenberg.org/ebooks/1023
