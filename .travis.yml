@@ -44,7 +44,7 @@ deploy:
   skip_cleanup: true
   provider: releases
   api_key:
-    secure: {{encrypted_key}}
+    secure: "mIsAv9zbdtpCkUr+OyxJ2xnmsfUYMSYfVFwcuPFFWiyS6zDu4+CDfHTk3FOX8G2m9n+eNZYJa0RQAya+6eP4BxRYGysOvGGAHAYfoFhPt92SBZJ8brzAU8sVjYHt/GkdqSjLn7ev+ZWloPFjZRLFPPWLrqmqPhmr9Qg8OIqbEOzIAFtqVUDxurWOSzK6nNIjBfGN7vSgWXP2RmHfiWl2oQnpnVTliijPyTic3jJzzzsu6nYS5/0ZNeFOiWuM/OkmNCuGSnKoZn8zrC9JMLVm8lHFHIbHR9q9uTAOK691d9JnzNgD8hWrgtBm88oLfjizdraLD7f0FXpJPYFnm8fz64G5KXBbQgaYCtiSx7g46L0l1+mDf+t6Ff465s13fzELMpi3TrT8XQckJ8T+rpe2UodLenXGvxT28QNUSD4kW5Xc1+WWTpEq140A/8jwETzBFiikFWajW/MYW7bPKnN8Hrg+9gESiRSSItFlc2jXb0WgDyXXDJ/uYBsUUBWV28UqhCSiKDLXjJTBV1ocsykJ77irhZNupgcZxhssPZK0/xTCWafseMEsNoU1H05sjvm7XKh8c3w3eiWyIEmvjbMVa02PvizTcpiOYbmSpHv4UK0ZQOD1VMSS0yQui3FVEXAFZrcdOGHa56A+KOJNcYro4vyOO6PXYkyLHjOy5wbYQak="
   file:
     - Bleak-House.epub
     - Bleak-House.mobi
