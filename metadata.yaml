@@ -1,5 +1,5 @@
 _repo: Bleak-House_1023
-_version: 0.0.3
+_version: 0.0.4
 covers:
 - attribution: Ed Gaither - Modern Electrographic, 2015
   cover_type: original
@@ -20,8 +20,8 @@ gutenberg_type: Text
 identifiers:
   gutenberg: '1023'
 language: en
-publication_note: '[S.l. :  s.n.],  1853'
 publication_date: 2015-08-01
+publication_note: '[S.l. :  s.n.],  1853'
 publisher: Recovering the Classics
 rights: CC BY-NC
 rights_url: http://creativecommons.org/licenses/by-nc/4.0/
